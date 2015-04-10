@@ -21,7 +21,6 @@ import org.junit.Test;
 /*
  * Java 8 Dojo
  	Streams: 
- 		
  		An abstraction - a view on to immutable collections, without the fluff of explicit iterations, messy mutations, concurrency headaches, ..
 		Collections are about data, streams are about computations
 		Streams let you say what not how 
@@ -54,6 +53,8 @@ import org.junit.Test;
 			sorted()
 		Predicates  (and F, C, S) 
 7			can be chained, and passed around
+
+9		"""When ever you are about to code a for/while loop, stop and think how to do this with Stream instead"""
  */
 
 public class Streams101Samples {

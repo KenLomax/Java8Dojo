@@ -77,11 +77,7 @@ public class StreamsTheKillerArgument {
 		
 		persons.stream()
 				.filter( (Person p) -> p.isMale())
-				.forEach( p -> System.out.println(p));
-		
-		
-		
-		
+				.forEach( p -> System.out.println(p));	
 	}
 
 }

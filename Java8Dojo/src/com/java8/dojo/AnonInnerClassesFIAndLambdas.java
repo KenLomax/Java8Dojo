@@ -13,10 +13,9 @@ import org.junit.Test;
 /*
  * Java 8 Dojo
  * @FunctionalInterfaces are important - what are they
- * AnonymousInnerclasses of FIs - uncessary ceremony - get rid of the fluff with Lambdas and let the compiler infer everything
+ * AnonymousInnerclasses of FIs - unnecessary ceremony - get rid of the fluff with Lambdas and let the compiler infer everything
  * Lambdas: whenever you are about to implement and anonymous innerclaas for an FunctionalInterface write a Labda instead
  * This is just syntactic sugar: Lambdas saves typing
- * Try it 
  */
 
 public class AnonInnerClassesFIAndLambdas {

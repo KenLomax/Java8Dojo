@@ -16,9 +16,9 @@ import org.junit.Test;
 
 /*
  * Java 8 Dojo
- * https://docs.oracle.com/javase/8/docs/api/ - java.util.function contains many new FunctionalInterfaces
- * 4 types: Supplier, Producer, Function, Predicate - we need to know these and how to express them with Lambdas - because STREAMS use these
- * Try it
+ * https://docs.oracle.com/javase/8/docs/api/ - java.util.function contains many new FunctionalInterfaces..
+ * that you can implemented with Lamdbas..
+ * 4 types: Supplier, Consumer, Function, Predicate - we need to know these and how to express them with Lambdas - because STREAMS use these
  */
 
 public class LambdasInJavaUtilFunction {
